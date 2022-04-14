@@ -1,4 +1,1 @@
-print("first line")
-print("second line")
-print("third line")
-print("master")
+print("b1")
